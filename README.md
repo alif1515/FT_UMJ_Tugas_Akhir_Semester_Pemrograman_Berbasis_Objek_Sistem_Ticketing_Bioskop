@@ -8,11 +8,11 @@ Dosen : MIRZA SUTRISNO, S.SI., M.KOM
 
 
 ## MEMBER
--24040700110 Muhammad Alif Razaqi
+- 24040700110 Muhammad Alif Razaqi
 
 
 ## Tujuan Utama
-Tujuan Teknis  
+- Tujuan Teknis  
 Membangun simulasi sistem pemesanan tiket bioskop menggunakan prinsip Object-Oriented Programming (OOP) dalam C++.
 
 Melatih penggunaan class, objek, enkapsulasi, dan komposisi.
@@ -21,7 +21,7 @@ Mengimplementasikan struktur data dinamis (vector, string) untuk mengelola film,
 
 Menunjukkan bagaimana sistem modular dapat memproses pemesanan kursi, mencetak struk, dan menampilkan layout kursi secara real-time.
 
-Tujuan Edukatif  
+- Tujuan Edukatif  
 Memberikan studi kasus nyata bagi siswa untuk memahami penerapan OOP dalam kehidupan sehari-hari.
 
 Membantu siswa melihat hubungan antar objek (Film, Penonton, Bioskop).
