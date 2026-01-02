@@ -3,7 +3,7 @@ Tugas Akhir Semester 3 Pemrograman Berbasis Objek
 
 Dosen : MIRZA SUTRISNO, S.SI., M.KOM
 
-## ACADEMIA PDF : 
+## ACADEMIA PDF : https://www.academia.edu/145730090/Tugas_Akhir_Pemrograman_Berbasis_Objek
 
 
 
